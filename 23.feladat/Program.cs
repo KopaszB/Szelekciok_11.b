@@ -10,6 +10,7 @@ namespace _23.feladat
     {
         static void Main(string[] args)
         {
+            /*bekér két számot és a nagyobból kivonja a kisebbet. Az eredményt kiírja a képernyőre.*/
             Console.Write("Első szám: ");
             int szam1 = int.Parse(Console.ReadLine());
 
